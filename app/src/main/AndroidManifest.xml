@@ -16,7 +16,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LoginLocalize"></activity>
+        <activity android:name=".LoginLocalize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name=".UsnaoCad" />
         <activity android:name=".UsnaoCadcont" />
         <activity android:name=".FinalCad" />
@@ -24,11 +30,7 @@
             android:name=".MainUsCom"
             android:label="@string/title_activity_main_us_com"
             android:theme="@style/AppTheme">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
@@ -40,7 +42,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />
+            android:value="AIzaSyAVbTzqq3DFMW_dQmejN-ognSdWHOUjoR4" />
 
 
     </application>

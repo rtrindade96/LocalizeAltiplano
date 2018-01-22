@@ -105,17 +105,18 @@
     </android.support.design.widget.TextInputLayout>
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/signUpButton"
         android:layout_width="130dp"
         android:layout_height="60dp"
         android:layout_marginBottom="26dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
-        android:text="Cadastrar"
         android:backgroundTint="@color/colorPrimaryDark"
+        android:text="Cadastrar"
         android:textColor="@android:color/background_light"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent" />
+        app:layout_constraintRight_toRightOf="parent"
+        android:onClick="handleSignUpClick"/>
 
 </android.support.constraint.ConstraintLayout>

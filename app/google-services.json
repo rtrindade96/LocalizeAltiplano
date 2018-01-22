@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "151676427968",
+    "firebase_url": "https://localizealtiplano.firebaseio.com",
+    "project_id": "localizealtiplano",
+    "storage_bucket": "localizealtiplano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151676427968:android:4935a0dc27fc791d",
+        "android_client_info": {
+          "package_name": "br.com.localizealtiplano.localizealtiplano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151676427968-hk58sp7oc6s5rfbqo2gt0dalt8ckeeo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.localizealtiplano.localizealtiplano",
+            "certificate_hash": "36cda014d7e1d3a28366560443cede0136945c27"
+          }
+        },
+        {
+          "client_id": "151676427968-3sk6bkak933lqjgipvmgv3rm2e4sr97q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-xANNrJsMqXp5DeimWHXFzdDI_rpmO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151676427968-3sk6bkak933lqjgipvmgv3rm2e4sr97q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151676427968:android:14a38060b39d2ba2",
+        "android_client_info": {
+          "package_name": "com.example.ranielle.localizealtiplano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151676427968-b4tj54658eahvndm1h7rbrud4ik28jqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ranielle.localizealtiplano",
+            "certificate_hash": "5a9b4ef26a0b01940c353e2e9f93560c37c6fddc"
+          }
+        },
+        {
+          "client_id": "151676427968-3sk6bkak933lqjgipvmgv3rm2e4sr97q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-xANNrJsMqXp5DeimWHXFzdDI_rpmO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151676427968-3sk6bkak933lqjgipvmgv3rm2e4sr97q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
